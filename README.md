@@ -13,9 +13,9 @@ Hey everyone, I'm Mahmoud Mohamed! <img src="https://raw.githubusercontent.com/M
 
 -  <h4 align="left">📱 I'm a Flutter developer.</h4>
 -  <h4 align="left">🤖 I love learning about and making Flutter apps.</h4>
--  <samp><b>💻 I am constantly seeking out new technologies and learning about them.</b>
--  <samp><b>🤝 I am open to collaborating with others on various projects, particularly those related to Flutter learning or areas that I have yet to explore.</b>
--  <samp><b>🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.</b>
+-  <h4 align="left">💻 I am constantly seeking out new technologies and learning about them.</h4>
+-  <h4 align="left">🤝 I am open to collaborating with others on various projects, particularly those related to Flutter learning or areas that I have yet to explore.</h4>
+-  <h4 align="left">🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.</h4>
 </div>
 
 &nbsp;
