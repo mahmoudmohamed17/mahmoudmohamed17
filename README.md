@@ -10,11 +10,11 @@ Hey everyone, I'm Mahmoud Mohamed! <img src="https://raw.githubusercontent.com/M
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
 
--  <p style="font-size: 18px; font-weight: bold;">📱 I'm a Flutter developer.</p>
--  <p style="font-size: 18px; font-weight: bold;">🤖 I love learning about and making Flutter apps.</p>
--  <p style="font-size: 18px; font-weight: bold;">💻 I am constantly seeking out new technologies and learning about them.</p>
--  <p style="font-size: 18px; font-weight: bold;">🤝 I am open to collaborating with others on various projects, particularly those related to Flutter learning or areas that I have yet to explore.</p>
--  <p style="font-size: 18px; font-weight: bold;">🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.</p>
+-  <p style="font-size: 20px; font-weight: bold;">📱 I'm a Flutter developer.</p>
+-  <p style="font-size: 20px; font-weight: bold;">🤖 I love learning about and making Flutter apps.</p>
+-  <p style="font-size: 20px; font-weight: bold;">💻 I am constantly seeking out new technologies and learning about them.</p>
+-  <p style="font-size: 20px; font-weight: bold;">🤝 I am open to collaborating with others on various projects, particularly those related to Flutter learning or areas that I have yet to explore.</p>
+-  <p style="font-size: 20px; font-weight: bold;">🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.</p>
 </div>
 
 &nbsp;
