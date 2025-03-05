@@ -9,7 +9,6 @@ Hey everyone, I'm Mahmoud Mohamed! <img src="https://raw.githubusercontent.com/M
 <h2 align="left">About me</h2>
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
 
 -  <h4 align="left">📱 I'm a Flutter developer.</h4>
 -  <h4 align="left">🤖 I love learning about and making Flutter apps.</h4>
