@@ -24,7 +24,7 @@
 <h2 align="left">Techs I use</h2> 
 <div>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,javascript,flutter,nodejs,firebase,supabase,figma,vscode,androidstudio,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,javascript,flutter,nodejs,mongodb,firebase,supabase,figma,vscode,androidstudio,git&theme=dark" />
   </a>
 </div>
 
